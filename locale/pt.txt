@@ -5,10 +5,12 @@
 ### URL
 LinkBehaviour_7918B603_6C9A_20F0_41A6_405F8567FF5D.source = http://www.loremipsum.com
 LinkBehaviour_4E1D0CBD_6BB6_F3F0_418E_559C017FDC68.source = http://www.loremipsum.com
-LinkBehaviour_4E1D7CBD_6BB6_F3F0_41A9_15C96919A3C8.source = https://linklist.bio/kyokocampolimpo
 LinkBehaviour_791CE5E9_6C9A_2333_41C5_EB5139B5EC7A.source = https://linklist.bio/kyokocampolimpo
+LinkBehaviour_4E1D7CBD_6BB6_F3F0_41A9_15C96919A3C8.source = https://linklist.bio/kyokocampolimpo
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_245FE213_17C4_1F0B_41A4_D9A473C556C8.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14376.151861634273!2d-73.99351941263586!3d40.75732561349075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25855c6480299%3A0x55194ec5a1ae072e!2sTimes+Square!5e0!3m2!1ses!2ses!4v1542287427714" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+LinkBehaviour_F2D7CC37_E55A_0059_41DA_D2F94F1C1C86.source = https://www.instagram.com/meunegocioweb360/
+LinkBehaviour_F23A5FF2_E526_3FDA_41E7_976F84806089.source = https://www.instagram.com/meunegocioweb360/
 
 ## Media
 
@@ -25,6 +27,11 @@ panorama_4A0D1323_6BCF_7697_41D2_8A9D55D5F0A7.label = 6
 panorama_4A0AEC81_6BCF_7390_41B7_C0E3EF7A096F.label = 7
 panorama_4A0D061E_6BCF_9EB0_41B7_9793D0A44DB6.label = 8
 panorama_603A009E_6C9A_2111_41A6_856D68665AC7.label = Drone
+
+## Right Click Menu
+
+### Text
+TDVAuthor.label = @meunegocioweb360
 
 ## Skin
 
@@ -55,6 +62,8 @@ Image_4F01563A_6BD2_BEF0_4182_18DA96B808A1_mobile.url = skin/Image_4F01563A_6BD2
 Image_4F01563A_6BD2_BEF0_4182_18DA96B808A1.url = skin/Image_4F01563A_6BD2_BEF0_4182_18DA96B808A1_pt.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_mobile_pt.png
 Image_9511127C_9B79_D2C1_41D8_D080B87BFD84.url = skin/Image_9511127C_9B79_D2C1_41D8_D080B87BFD84_pt.png
+Image_F0F4D7CA_E526_0FCA_41AF_CC0A81112E42.url = skin/Image_F0F4D7CA_E526_0FCA_41AF_CC0A81112E42_pt.png
+Image_F3BCA441_E526_0036_41EB_3E8F545A3511.url = skin/Image_F3BCA441_E526_0036_41EB_3E8F545A3511_pt.png
 
 ### Multiline Text
 HTMLText_386DF8AA_17CC_0B05_41AE_D7BDB2970D08_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.42vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:8.42vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:5.3599999999999985vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.36vh;font-family:'Oswald';"><B>LOREM IPSUM</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff361b;font-size:2.3vh;font-family:'Oswald Regular';">Dolor sit amet, consectetur adipiscing elit. Nunc porttitor ac nulla vitae bibendum.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.64vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.64vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.64vh;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.64vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
